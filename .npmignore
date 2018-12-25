@@ -1,0 +1,9 @@
+node_modules/
+.nyc_output/
+coverage/
+.vscode
+*.log
+package-lock.json
+.DS_Store
+results.tap
+report.html

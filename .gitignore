@@ -1,0 +1,25 @@
+# node.js
+node_modules/
+npm-debug.log
+.nyc_output
+
+# tmp
+tmp/
+
+# vscode
+.vscode
+
+# other
+coverage/
+
+# IDEA
+.idea/
+
+# npm
+package-lock.json
+
+# dist
+dist
+
+# logs
+logs
